@@ -1,0 +1,10 @@
+Package: ReadArticle
+Title: Extract Information from academic Documents
+Version: 0.1-0
+Description: This is a package to read PDF documents.
+Author: Duncan Temple Lang, Matt Espe, Jane Carlen
+Maintainer: Duncan Temple Lang <duncan@r-project.org>
+License: BSD_3_clause + file LICENSE
+Imports: XML, methods
+Extra: (>= 3.99.0)
+
